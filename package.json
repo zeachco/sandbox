@@ -1,0 +1,22 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "description": "A place where magic happens",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeachco/sandbox.git"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "Olivier Rousseau-Guyot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeachco/sandbox/issues"
+  },
+  "homepage": "https://github.com/zeachco/sandbox#readme"
+}
